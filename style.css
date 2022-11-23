@@ -52,6 +52,8 @@ section {
     display: flex;
     flex-wrap: nowrap;
     gap: 20px;
+    max-width: 550px;
+    margin: auto;
     overflow-x: auto;
 }
 
